@@ -152,7 +152,7 @@ export default function Hero() {
           </a>
           <a
             id="hero-cta-cv"
-            href="/cv.pdf"
+            href="/CV-Raden M Raditya Rahman 2026.pdf"
             download
             className="w-full sm:w-auto px-8 py-4 rounded-xl text-zinc-300 font-bold text-sm hover:text-white border border-white/10 bg-white/5 hover:bg-white/10 transition-all duration-300 hover:-translate-y-0.5 flex items-center justify-center gap-2"
           >
